@@ -31,7 +31,7 @@ Hindi
 ##### 2. Topics covered:
 •What is CSS? 
 
-•COlours Nad Backgrounds
+•Colours and Backgrounds
 
 •CSS Box Models
 
