@@ -7,13 +7,21 @@ English
 6 Hrs 18 min
 ##### 3. Topics covered:
 •Coloring
+
 •Formatting
+
 •Text
+
 •Layout
+
 •Grid
+
 •Flexbox
+
 •Animations
+
 •Transitions
+
 •And more!
 
 ### 2. [Full Course from scratch](https://www.youtube.com/watch?v=TThZIt4r3eg&list=PL0b6OzIxLPbzDsI5YXUa01QzxOWyqmrWw)
@@ -22,12 +30,19 @@ English
 Hindi
 ##### 2. Topics covered:
 •What is CSS? 
+
 •Our First CSS Website
+
 •Colors & Backgrounds
+
 •CSS Box Model
+
 •Fonts & Display
+
 •Size, Position & Lists
+
 •CSS Flexbox
+
 •And More!
 
 # Article:
@@ -37,4 +52,4 @@ Hindi
 4. [Writting Animation Code Efficiently](https://css-tricks.com/tips-for-writing-animation-code-efficiently/?utm_source=devglan)
 5. [CSS Margins](https://www.freecodecamp.org/news/css-margins/amp/?utm_source=devglan)
 6. [Ultimate guide to CSS](https://medium.com/level-up-web/the-ultimate-guide-to-css-103b0f883de3)
-7. 
+
