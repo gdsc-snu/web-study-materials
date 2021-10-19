@@ -31,11 +31,9 @@ Hindi
 ##### 2. Topics covered:
 •What is CSS? 
 
-•Our First CSS Website
+•COlours Nad Backgrounds
 
-•Colors & Backgrounds
-
-•CSS Box Model
+•CSS Box Models
 
 •Fonts & Display
 
