@@ -1,4 +1,5 @@
-![](Resources/CSS/Add a heding.png)
+![Add a heding](https://user-images.githubusercontent.com/68693240/137918457-e84b4534-c55d-4d95-b97d-b11b0b2cbde0.png)
+
 
 # Youtube Links:
 ### 1. [Full Course from scratch](https://youtu.be/1Rs2ND1ryYc)
