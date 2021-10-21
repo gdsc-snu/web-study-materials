@@ -33,7 +33,7 @@ Hindi
 ##### 2. Duration:
 palylist
 ##### 2. Topics covered:
-This series will gcover every details from a from a beginner level to an advanced level.
+This series will cover every details from a  beginner level to an advanced level.
 
 # Article:
 1. [Difference Between Local Storage, Session Storage And Cookies](https://www.geeksforgeeks.org/difference-between-local-storage-session-storage-and-cookies/)
