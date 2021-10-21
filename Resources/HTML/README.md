@@ -1,3 +1,6 @@
+![Add a heading (1)](https://user-images.githubusercontent.com/68693240/138220403-3673a589-3384-4b7c-97e8-80b0688b769c.png)
+
+
 
 # Youtube Links:
 ### 1. [Full Course from scratch](https://www.youtube.com/watch?v=dD2EISBDjWM&list=PLr6-GrHUlVf_ZNmuQSXdS197Oyr1L9sPB)
@@ -15,8 +18,6 @@ This series will cover the latest concepts including HTML5.
 Hindi
 ##### 2. Duration:
 54 min
-##### 2. Topics covered:
-
 
 # Article:
 1. [An intro to responsive image optimization with HTML5 and Intersection Observer](https://www.freecodecamp.org/news/an-intro-to-responsive-image-optimization-with-html5-and-intersection-observer-2a4fbe1473c1/)
