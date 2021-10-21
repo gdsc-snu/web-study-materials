@@ -7,22 +7,22 @@
 ##### 1. Language: 
 English
 ##### 2. Duration:
-3hrs 32 min
+3 hrs 32 min
 ##### 3. Topics covered:
 - What is JavaScript?
 - JavaScript History
 - Java vs JavaScript
 - Uses of JavaScript
--  How to write a JavaScript program?
--  Data Types in JavaScript
--  Variables in JavaScript
--  Arrays in JavaScript
--  Type Conversion in JavaScript
--  Operators in JavaScript
--  Conditional Statements
+- How to write a JavaScript program?
+- Data Types in JavaScript
+- Variables in JavaScript
+- Arrays in JavaScript
+- Type Conversion in JavaScript
+- Operators in JavaScript
+- Conditional Statements
 - Loops
 - Functions
-- OBject Creation
+- Object Creation
 - And more!
 
 
@@ -31,7 +31,7 @@ English
 ##### 1. Language: 
 Hindi
 ##### 2. Duration:
-palylist
+playlist
 ##### 2. Topics covered:
 This series will cover every details from a  beginner level to an advanced level.
 
