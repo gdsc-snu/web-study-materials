@@ -9,42 +9,28 @@ English
 ##### 2. Duration: 
 6 Hrs 18 min
 ##### 3. Topics covered:
-•Coloring
-
-•Formatting
-
-•Text
-
-•Layout
-
-•Grid
-
-•Flexbox
-
-•Animations
-
-•Transitions
-
-•And more!
+- Coloring
+- Formatting
+- Text
+- Layout
+- Grid
+- Flexbox
+- Animations
+- Transitions
+- And more!
 
 ### 2. [Full Course from scratch](https://www.youtube.com/watch?v=TThZIt4r3eg&list=PL0b6OzIxLPbzDsI5YXUa01QzxOWyqmrWw)
 #### *Details:*
 ##### 1. Language: 
 Hindi
 ##### 2. Topics covered:
-•What is CSS? 
-
-•Colours and Backgrounds
-
-•CSS Box Models
-
-•Fonts & Display
-
-•Size, Position & Lists
-
-•CSS Flexbox
-
-•And More!
+- What is CSS? 
+- Colours and Backgrounds
+- CSS Box Models
+- Fonts & Display
+- Size, Position & Lists
+- CSS Flexbox
+- And More!
 
 # Article:
 1. [FlexBox](https://tutorialzine.com/2016/04/5-flexbox-techniques-you-need-to-know-about)
